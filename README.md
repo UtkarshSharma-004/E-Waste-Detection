@@ -207,7 +207,7 @@ The Streamlit application can be deployed using **Streamlit Community Cloud**.
 
 The final application URL can be added here after deployment:
 
-**Live Demo:** `(https://e-wastes-detection.streamlit.app/)`
+**Live Demo:** https://e-wastes-detection.streamlit.app/
 
 ## 🔮 Future Improvements
 
