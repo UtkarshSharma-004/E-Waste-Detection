@@ -108,7 +108,7 @@ except (StopIteration, ValueError):
 # ----------------------------
 # User interface
 # ----------------------------
-st.title("♻️ E-Waste Detection System")
+st.title("♻️ E-Waste Classification System")
 
 st.write(
     "Upload an electronic-waste image to identify its category. "
